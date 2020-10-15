@@ -59,7 +59,7 @@ def get_english_meaning(filepath, emoticon)
   if emote == newlibrary["wink"][:japanese]
      return "Sorry, that emoticon was not found"
   end
-binding.pry
+
   }
   }
 end
